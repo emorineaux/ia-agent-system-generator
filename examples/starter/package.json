@@ -1,0 +1,7 @@
+{
+  "name": "starter-example",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
